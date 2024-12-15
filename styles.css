@@ -204,6 +204,7 @@ h4 {
     font-size: 1rem;
     color: var(--clr-p);
     margin-bottom: 2%;
+    display: inline-block;
 }
 
 h3 {
@@ -234,4 +235,10 @@ h3 {
     width: 500px;
     position: sticky;
     top: 3vw;
+}
+
+.solutions-images {
+    display: inline-block;
+    width: 1rem;
+    align-items: center;
 }
